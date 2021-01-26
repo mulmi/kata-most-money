@@ -5,7 +5,7 @@
     "lib": ["es2020"],
     "allowJs": false,
     "outDir": "build",                        /* Redirect output structure to the directory. */
-    "rootDir": "src",                         /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
+    "rootDir": ".",                           /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
 
     /* Strict Type-Checking Options */
     "strict": true,                           /* Enable all strict type-checking options. */
